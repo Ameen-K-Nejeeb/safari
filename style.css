@@ -47,3 +47,9 @@
     align-items: center;   
     gap: 2rem;
 }
+@media (max-width: 760px) {
+    .video-row{
+        flex-direction: column;
+        text-align: center;
+    }
+  }
