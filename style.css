@@ -1,0 +1,44 @@
+.safari-logo{
+    width: 83px;
+    height: 38px;
+}
+.search-icon{
+    gap: 1rem;
+    margin-right: 30px;
+}
+.safari-hero{
+    width: 100%;
+}
+.premium-bag{
+    margin-top: 2%;
+    text-align: center;
+}
+.premium-bags{
+    text-align: center;
+}
+.table-nav{
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    cursor: pointer;
+}
+.card-table{
+    display: flex;
+    gap: 2rem;
+    margin-top: 3rem;
+
+}
+.card{
+    cursor: pointer;
+}
+.button-card{
+    width: 10rem;
+    height: 3rem;
+    background: blue;
+    color: white;
+    font-size: larger;
+    cursor: pointer;
+}
+.second-margin{
+    margin-top: 5rem;
+}
