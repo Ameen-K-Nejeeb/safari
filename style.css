@@ -42,3 +42,8 @@
 .second-margin{
     margin-top: 5rem;
 }
+.video-row{
+    flex-wrap: nowrap;
+    align-items: center;   
+    gap: 2rem;
+}
