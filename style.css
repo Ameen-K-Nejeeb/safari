@@ -47,6 +47,13 @@
     align-items: center;   
     gap: 2rem;
 }
+.logos{
+    width: 100px;
+    size: 200px;
+    
+}
+
+
 @media (max-width: 760px) {
     .video-row{
         flex-direction: column;
